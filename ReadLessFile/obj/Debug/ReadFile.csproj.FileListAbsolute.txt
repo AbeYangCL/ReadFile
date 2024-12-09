@@ -1,0 +1,7 @@
+D:\Documents\Project\EBGIT.svn\ReadFile\ReadFile\obj\Debug\ReadFile.csprojAssemblyReference.cache
+D:\Documents\Project\EBGIT.svn\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+D:\Documents\Project\EBGIT.svn\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+D:\Documents\Project\EBGIT.svn\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+D:\Documents\Project\EBGIT.svn\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+D:\Documents\Project\EBGIT.svn\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+D:\Documents\Project\EBGIT.svn\ReadFile\ReadFile\obj\Debug\ReadFile.pdb

@@ -1,0 +1,7 @@
+D:\Documents\Project\EBGIT.svn\IDC\DevelopeTool\ReadFile\ReadLessFile\bin\Debug\ReadFile.exe.config
+D:\Documents\Project\EBGIT.svn\IDC\DevelopeTool\ReadFile\ReadLessFile\bin\Debug\ReadFile.exe
+D:\Documents\Project\EBGIT.svn\IDC\DevelopeTool\ReadFile\ReadLessFile\bin\Debug\ReadFile.pdb
+D:\Documents\Project\EBGIT.svn\IDC\DevelopeTool\ReadFile\ReadLessFile\obj\Debug\ReadLessFile.csprojAssemblyReference.cache
+D:\Documents\Project\EBGIT.svn\IDC\DevelopeTool\ReadFile\ReadLessFile\obj\Debug\ReadLessFile.csproj.CoreCompileInputs.cache
+D:\Documents\Project\EBGIT.svn\IDC\DevelopeTool\ReadFile\ReadLessFile\obj\Debug\ReadFile.exe
+D:\Documents\Project\EBGIT.svn\IDC\DevelopeTool\ReadFile\ReadLessFile\obj\Debug\ReadFile.pdb
